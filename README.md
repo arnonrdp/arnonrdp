@@ -18,11 +18,5 @@
 <hr>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="boostrap" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50"/>
+  <a href="https://stackexchange.com/users/10520312/arnon-de-paula"><img src="https://stackexchange.com/users/flair/10520312.png" width="208" height="58" alt="profile for Arnon De Paula on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arnon De Paula on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 </div>
