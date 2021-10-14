@@ -1,6 +1,6 @@
 ## 👋 Hi, I am Arnon
 
-I am brazilian 🇧🇷 and a front-end developer who loves to apply technology to solve problems.
+I am brazilian 🇧🇷 &nbsp;and a front-end developer who loves to apply technology to solve problems.
 
 I have experience in websites with UX/UI design, SEO best practice and agile methodology with SCRUM.
 
