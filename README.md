@@ -9,9 +9,9 @@ I am communicative, dedicated and always interested in learning new technologies
 <hr>
 
 <div align="center">
-  <a href="https://stackoverflow.com/users/7753089/"><img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/7753089?label=Stack%20Overflow&logo=stackoverflow"></a>
-  <a href="https://www.freecodecamp.org/arnon"><img alt="freeCodeCamp points" src="https://img.shields.io/freecodecamp/points/arnon?label=freeCodeCamp&logo=freecodecamp"></a>
-  <a href="https://pt.stackoverflow.com/users/69988/"><img alt="Stack Overflow em Português reputation" src="https://img.shields.io/stackexchange/pt.stackoverflow/r/69988?color=rgb%280%2C169%2C%2069%29&label=Stack%20Overflow%20em%20Portugu%C3%AAs"></a>
+  <a href="https://stackoverflow.com/users/7753089/"><img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/7753089?label=Stack%20Overflow&logo=stackoverflow"/></a>
+  <a href="https://www.freecodecamp.org/arnon"><img alt="freeCodeCamp points" src="https://img.shields.io/freecodecamp/points/arnon?label=freeCodeCamp&logo=freecodecamp"/></a>
+  <a href="https://pt.stackoverflow.com/users/69988/"><img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/pt.stackoverflow.com/r/69988?label=Stack%20Overflow&logo=stackoverflow&logoColor=green"/></a>
   <a href="https://codereview.stackexchange.com/users/242103/"><img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/codereview/r/242103?color=rgb%28249%2C0%20%2C35%29&label=Code%20Review"></a>
   <a href="https://dba.stackexchange.com/users/233965/"><img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/dba/r/233965?color=rgb%280%2C%20153%2C%20214%29&label=Database%20Administrators"></a>
   
