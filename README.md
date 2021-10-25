@@ -9,12 +9,10 @@ I am communicative, dedicated and always interested in learning new technologies
 <hr>
 
 <div align="center">  
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnonrdp&layout=compact&langs_count=8&theme=chartreuse-dark" width="400"></a>
+  <br><br>
+  <a href="https://stackexchange.com/users/10520312/arnon"><img src="https://stackexchange.com/users/flair/10520312.png" width="208" height="58" alt="profile for Arnon on Stack Exchange" title="profile for Arnon on Stack Exchange" /></a>
+  <br><br>
   <a href="https://www.freecodecamp.org/arnon"><img alt="freeCodeCamp points" src="https://img.shields.io/freecodecamp/points/arnon?label=freeCodeCamp&logo=freecodecamp"/></a>
   <a href="https://twitter.com/arnonrdp"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/arnonrdp?label=Twitter&style=social"></a>
-  <br>
-  <a href="https://stackexchange.com/users/10520312/arnon"><img src="https://stackexchange.com/users/flair/10520312.png" width="208" height="58" alt="profile for Arnon on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arnon on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
-  <br>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnonrdp&layout=compact&langs_count=8&theme=chartreuse-dark" width="400"></a>
-  <br>
-<!-- <a href="https://stackexchange.com/users/10520312/arnon-de-paula"><img src="https://stackexchange.com/users/flair/10520312.png" width="208" height="58" alt="profile for Arnon De Paula on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Arnon De Paula on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a> -->
 </div>
