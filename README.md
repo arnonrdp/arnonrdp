@@ -16,5 +16,7 @@ I am communicative, dedicated and always interested in learning new technologies
   <a href="https://codepen.io/arnonrdp"><img src="https://img.shields.io/badge/-CodePen-black?logo=codepen" /></a>
   <a href="https://www.freecodecamp.org/arnon"><img src="https://img.shields.io/freecodecamp/points/arnon?label=freeCodeCamp&logo=freecodecamp" /></a>
   <a href="https://www.hackerrank.com/arnonrdp"><img src="https://img.shields.io/badge/-HackerRank%20-black?logo=hackerrank" /></a>
+  <br>
+  <a href="https://www.linkedin.com/in/arnonrdp/"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?logo=linkedin" /></a>
   <a href="https://twitter.com/arnonrdp"><img src="https://img.shields.io/twitter/follow/arnonrdp?label=Twitter" /></a>
 </div>
