@@ -13,6 +13,8 @@ I am communicative, dedicated and always interested in learning new technologies
   <br><br>
   <a href="https://stackexchange.com/users/10520312/arnon"><img src="https://stackexchange.com/users/flair/10520312.png" width="208" height="58" alt="profile for Arnon on Stack Exchange" title="profile for Arnon on Stack Exchange" /></a>
   <br><br>
-  <a href="https://www.freecodecamp.org/arnon"><img alt="freeCodeCamp points" src="https://img.shields.io/freecodecamp/points/arnon?label=freeCodeCamp&logo=freecodecamp"/></a>
-  <a href="https://twitter.com/arnonrdp"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/arnonrdp?label=Twitter&style=social"></a>
+  <a href="https://codepen.io/arnonrdp"><img src="https://img.shields.io/badge/-CodePen-black?logo=codepen" /></a>
+  <a href="https://www.freecodecamp.org/arnon"><img src="https://img.shields.io/freecodecamp/points/arnon?label=freeCodeCamp&logo=freecodecamp" /></a>
+  <a href="https://www.hackerrank.com/arnonrdp"><img src="https://img.shields.io/badge/-HackerRank%20-black?logo=hackerrank" /></a>
+  <a href="https://twitter.com/arnonrdp"><img src="https://img.shields.io/twitter/follow/arnonrdp?label=Twitter" /></a>
 </div>
