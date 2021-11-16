@@ -9,7 +9,7 @@ I am communicative, dedicated, and always interested in learning new technologie
 <hr>
 
 <a href="#">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnonrdp&layout=compact&langs_count=8&theme=chartreuse-dark" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnonrdp&layout=compact&langs_count=8&theme=chartreuse-dark&role=OWNER" />
 </a>
 <br>
 <a href="#">
