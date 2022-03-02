@@ -9,10 +9,10 @@ I am communicative, dedicated, and always interested in learning new technologie
 <hr>
 
 <a href="#">
-  <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnonrdp&layout=compact&langs_count=8&theme=chartreuse-dark&role=OWNER" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnonrdp&layout=compact&langs_count=8&theme=chartreuse-dark&role=OWNER" />
 </a>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnonrdp&show_icons=truea&layout=compact&theme=chartreuse-dark "/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=arnonrdp&show_icons=truea&layout=compact&theme=chartreuse-dark "/>
 </a>
 <hr>
   
