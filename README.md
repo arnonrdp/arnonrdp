@@ -8,14 +8,16 @@ I am communicative, dedicated, and always interested in learning new technologie
 
 <hr>
 
+<center>
 <a href="#">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnonrdp&hide_title=true&layout=compact&langs_count=8&theme=chartreuse-dark&role=OWNER" />
 </a>
 <a href="#">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=arnonrdp&show_icons=true&hide_rank=true&hide_title=true&layout=compact&theme=chartreuse-dark "/>
 </a>
+
 <hr>
-  
+
 <a href="https://stackexchange.com/users/10520312/arnon" target="_blank">
   <img src="https://stackexchange.com/users/flair/10520312.png" width="208" height="58" alt="profile for Arnon on Stack Exchange" title="profile for Arnon on Stack Exchange" />
 </a>  
@@ -43,5 +45,4 @@ I am communicative, dedicated, and always interested in learning new technologie
 <a href="https://www.instagram.com/arnonrdp/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
-  
-
+</center>
