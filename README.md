@@ -13,6 +13,9 @@ I am communicative, dedicated, and always interested in learning new technologie
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnonrdp&hide_title=true&layout=compact&langs_count=8&theme=chartreuse-dark&role=OWNER" />
 </a>
 <a href="#">
+  <img height="180" src="https://streak-stats.demolab.com/?user=arnonrdp&theme=dark&background=000000" />
+</a>
+<a href="#">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=arnonrdp&show_icons=true&hide_title=true&count_private=true&theme=chartreuse-dark" />
 </a>
   
